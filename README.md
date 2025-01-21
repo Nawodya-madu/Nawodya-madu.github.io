@@ -21,3 +21,4 @@ Research/Projects: "Analysis of Gene Expression in Drought-Resistant Crops"]
 - Therapeutic Protein Expression in Bacteria
 
 ### Contact Details
+navodyamadubashini5@gmail.com
