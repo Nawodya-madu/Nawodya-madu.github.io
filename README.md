@@ -2,7 +2,7 @@
 "I am a passionate biotechnologist with a strong background in genetic engineering and molecular biology. With hands-on experience in research and development, I specialize in developing innovative solutions for agricultural and medical biotechnology.
 
 ### Educational Qualifications
-**Secondry education **
+**Secondry education**
 - Don Pedrick College Horana Completed G.C.E (O/L)
 - Taxila Central College Horana Completed G.C.E (A/L)
 
